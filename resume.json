@@ -1,0 +1,187 @@
+{
+    "basics": {
+      "name": "Lawerence Williams",
+      "label": "Full Stack Web Developer, JavaScript, React, Node",
+      "picture": "https://www.gravatar.com/avatar/41b83a25bac38bb0a759467d4d09820f?s=100",
+      "email": "uhuru3000@gmail.com",
+      "summary": "A life-learner and new technology nerd, I work hard at the things I love: programming, teaching, and learning.",
+      "phone": "(512) 539-9572",
+      "location": {
+        "city": "Austin",
+        "region": "Texas"
+      },
+      "profiles": [
+        {
+          "network": "PDF Resume",
+          "username": "Lawerence Williams",
+          "url": "http://uhuru3.github.io/lwresume.pdf"
+        },
+        {
+          "network": "GitHub",
+          "username": "uhuru3",
+          "url": "https://github.com/uhuru3"
+        },
+        {
+          "network": "LinkedIn",
+          "username": "lawerence-williams",
+          "url": "https://www.linkedin.com/in/lawerence-williams/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "Austin Coding Academy",
+        "position": "Full Stack Web Developer",
+        "website": "https://austincodingacademy.com",
+        "startDate": "2017-07-01",
+        "summary": "Planned, developed, and implemented projects, programs, and processes as a part of the department team. Assisted other developers with designing and producing UI/UX designs & concepts. Responded to customer issues providing triage resolving their problems quick and efficiently.",
+        "highlights": [
+          "Responsible for entire company software infrastructure",
+          "Created, maintained, and led interns and contributors on Campus Manager, our custom Learning Management System",
+          "Authored curriculums on HTML, CSS, JavaScript, Node.js, MongoDB",
+          "Developed workbooks with CI integration for linting",
+          "Built reporting infrastructure that combined data from multiple sources: Payments, CRM, LMS, etc. Ask me about YoSQL!",
+          "Implemented automation for web hooks, status checks, user events, reports, deployments, tests, etc.",
+          "Implementing/analyzing tracking services such as Google Analytics/Tag Manager, Facebook Pixel, click heatmaps, etc",
+          "SEO Optimization"
+        ]
+      },
+      {
+        "company": "SkillsEngine",
+        "position": "Senior Software Engineer",
+        "website": "https://skillsengine.com",
+        "startDate": "2012-03-16",
+        "endDate": "2018-07-13",
+        "summary": "Handled office tasks such as filling, data entry, report generation. presentations, scheduling, setting up meetings for management, reordering supplies, screening phone calls and routing them, accordingly, provided email communications, greeted and assisted visitors, and completed any other miscellaneous duties assigned to me."
+      },
+      {
+        "company": "Continuum Analytics",
+        "position": "Software Engineer",
+        "website": "https://continuum.io",
+        "startDate": "2015-06-08",
+        "endDate": "2017-01-01",
+        "summary": "Bokeh contributor, an open-source python driven graph generator. Implemented and designed client-specific projects and solutions.",
+        "highlights": [
+          "Worked on https://anaconda.org, a packaging and environment manager repository",
+          "Contributed to open-source packages such as Bokeh (https://bokeh.pydata.org)",
+          "Fast-paced full-stack client-specific projects with modern web development stacks"
+        ]
+      },
+      {
+        "company": "Generation Ready",
+        "position": "Lead Software Engineer + Architect",
+        "website": "https://generationready.com",
+        "startDate": "2013-11-01",
+        "endDate": "2015-06-05",
+        "summary": "Designed, built, and maintained in-house internet software. Headed small team of web developers and quality assurance technicians.",
+        "highlights": [
+          "Flourished in a fast-paced, agile environment",
+          "Developed deep PHP and Javascript skills",
+          "Learned and implemented new technologies often"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Campus Manager",
+        "description": "Learning Management System and Course Management Tool",
+        "highlights": [
+          "Learning Management System and Course Management Tool",
+          "Creator and current maintainer",
+          "Over 700 Users",
+          "Supports web hooks with Zapier",
+          "Powerful reporting engine",
+          "Built with MongoDB, Node.js, Express.js, Passport.js, Backbone.js, and React.js"
+        ],
+        "keywords": [
+          "JavaScript",
+          "MongoDB",
+          "Node",
+          "Express",
+          "Mongoose",
+          "React"
+        ]
+    
+      },
+      {
+        "name": "AdFree.Life",
+        "highlights": [
+          "Adblocking as a Service",
+          "Sets up a pre-configured Pi-Hole on a dedicated VPS",
+          "Uses cron jobs to generate trials",
+          "Hit #11 on Hacker News! (https://news.ycombinator.com/item?id=14910683)",
+          "Registration currently disabled while licensing is figured out"
+        ],
+        "keywords": [],
+        "url": "https://ad-free-life.herokuapp.com/",
+        "roles": ["Owner"],
+        "entity": "Startup",
+        "type": "SAAS"
+      },
+      {
+        "name": "YoSQL",
+        "highlights": [
+          "Converts NoSQL databases and JSON collections into SQL tables",
+          "Creator and current maintainer",
+          "Integrates with Zapier for web hook functionality",
+          "Save and share queries",
+          "API to integrate with any SPA frontend"
+        ],
+        "keywords": [],
+        "url": "https://github.com/kevincolten/yosql",
+        "roles": ["Creator"],
+        "entity": "Personal",
+        "type": "Library"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Languages",
+        "keywords":
+        [
+          "JavaScript/Node.js",
+          "Ruby",
+          "PHP",
+          "Python",
+          "SQL",
+          "NoSQL",
+          "Bash",
+          "Linux",
+          "C#"
+        ]
+      },
+      {
+        "name": "Web Development",
+        "keywords": [
+          "HTML/CSS",
+          "JavaScript/jQuery",
+          "Express/Node.js",
+          "Backbone/React + Redux",
+          "Rails",
+          "Laravel",
+          "Bootstrap/Foundation/Material",
+          "MongoDB",
+          "MySQL/Postgres/Sqlite",
+          "Authorization/Authentication",
+          "Responsive/Mobile Development",
+          "Bokeh/Bokeh Server",
+          "Grunt/Gulp/Webpack",
+          "SASS/LESS/UglifyJS"
+        ]
+      },
+      {
+        "name": "Technologies",
+        "keywords": [
+          "Continuous Integration",
+          "Automated Deployment",
+          "Automated Testing",
+          "AWS/Heroku/DigitalOcean",
+          "Heroku/Build Packs",
+          "Git/GitHub",
+          "Grunt/Gulp/WebPack",
+          "REST APIs",
+          "Data Visualization"
+        ]
+      }
+    ]
+  }
