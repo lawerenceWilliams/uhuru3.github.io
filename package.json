@@ -1,0 +1,23 @@
+{
+  "name": "uhuru3.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "resume export index.html --format html --theme flat_projects"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uhuru3/uhuru3.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uhuru3/uhuru3.github.io/issues"
+  },
+  "homepage": "https://github.com/uhuru3/uhuru3.github.io#readme",
+  "devDependencies": {
+    "jsonresume-theme-flat_projects": "github:kevincolten/jsonresume-theme-flat_projects#84491e5",
+    "resume-cli": "github:kevincolten/resume-cli#b05d465"
+  }
+}
